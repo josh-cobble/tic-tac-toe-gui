@@ -1,1 +1,1 @@
-# metric-conv-gui
+# tic-tac-toe-gui
